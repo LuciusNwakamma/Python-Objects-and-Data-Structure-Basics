@@ -18,9 +18,7 @@ print("Email: " + email)
 print("Occupation: " + occupation)
 print("Wage: " + hourly_wage)
 print("Working " + work_hours + " hours, " + str(_workdays) + " days a week")
-print(
-    
-    )
+print()
 print("Gross Annual Salary: $" + str(gas))
 
 
